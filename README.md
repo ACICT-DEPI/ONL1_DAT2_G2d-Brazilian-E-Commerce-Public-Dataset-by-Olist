@@ -1,7 +1,7 @@
-## تنبيه هام
+## Important !!!
 
-نظراً لأن حجم الملف الأساسي للمشروع يتجاوز 25 ميجابايت، لم نتمكن من رفعه مباشرة إلى GitHub. لذلك، يمكنك تحميل الملف الكامل من خلال الرابط التالي:
+Since the main project file exceeds 25 megabytes, we couldn't upload it directly to GitHub. So, you can download the complete file through the following link:
 
-[تحميل الملف الأساسي للمشروع](https://drive.google.com/file/d/1t0YVU79uOTSeVH8ogEpsC-Q1MNxVeufR/view?usp=sharing)
+Download the main project file
 
-يرجى ملاحظة أنه يمكن الوصول إلى هذا الملف لمراجعة المحتوى الكامل للمشروع.
+Please note that this file is available for reviewing the complete content of the project as a Power BI file
